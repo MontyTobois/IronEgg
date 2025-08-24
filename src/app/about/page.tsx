@@ -37,7 +37,7 @@ export default function AboutPage() {
           </p>
 
           <Image
-            src="/monty-bike.jpg"
+            src="/eggRoadBasquiat.png"
             alt="Monty and The Iron Egg"
             width={800}
             height={450}
@@ -66,7 +66,7 @@ export default function AboutPage() {
             Meet Monty
           </h2>
           <Image
-            src="/monty-bike.jpg"
+            src="/eggHelmetBasquiat.png"
             alt="Monty and The Iron Egg"
             width={450}
             height={450}
@@ -109,7 +109,7 @@ export default function AboutPage() {
           </p>
 
           <Image
-            src="/monty-bike.jpg"
+            src="/ironEggBasquiat.png"
             alt="2024 Honda Rebel 1100"
             width={800}
             height={450}

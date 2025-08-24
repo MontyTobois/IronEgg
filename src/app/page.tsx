@@ -38,7 +38,7 @@ export default function Home() {
 
           {/* Hero Content */}
           <div className="relative z-10 max-w-3xl">
-            <h1 className="text-5xl md:text-7xl font-extrabold uppercase mb-6 tracking-tight text-white">
+            <h1 className="text-5xl md:text-7xl font-extrabold uppercase mb-6 tracking-tight text-red-600">
               Monty & The Iron Egg
             </h1>
             <p className="text-lg md:text-2xl text-gray-100 mb-8 italic">
@@ -71,7 +71,7 @@ export default function Home() {
           {/* diagonal stripes overlay */}
           <div className="absolute bottom-0 left-0 right-0 h-full opacity-35 bg-white bg-[repeating-linear-gradient(135deg,#00000015_0px,#00000015_20px,transparent_20px,transparent_40px)] rounded-2xl" />
 
-          <h2 className="text-3xl md:text-4xl font-semibold text-center  relative z-10">
+          <h2 className="text-3xl md:text-4xl font-semibold text-center pb-12 relative z-10">
             Latest Ride
           </h2>
 

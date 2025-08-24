@@ -33,9 +33,9 @@ export default function RootLayout({
       >
         <Header />
 
-        <main className="px-6 md:px-12 lg:px-24 py-8">{children}</main>
+        <main className="px-6 md:px-12 lg:px-24 py-4">{children}</main>
 
-        <section className="w-full flex justify-center items-center py-16">
+        <section className="w-full flex justify-center items-center ">
           <div className="w-full max-w-5xl">
             <VoxelLoader />
           </div>

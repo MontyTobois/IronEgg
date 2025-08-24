@@ -113,7 +113,7 @@ const VoxelLoader = () => {
       initial={{ opacity: 0, y: 40 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 1 }}
-      className="w-full h-[33rem] max-w-4xl mx-auto relative shadow-white/50 fill-white/30 drop-shadow-lg drop-shadow-white/50 shadow-xl hover:cursor-grab rounded-2xl"
+      className="w-full h-[33rem] max-w-4xl mx-auto relative bg-white/5 fill-white/30 drop-shadow-lg drop-shadow-white/50 shadow-xl hover:cursor-grab "
     >
       {loading && (
         <div className="absolute inset-0 flex justify-center items-center text-white rounded-2xl">
