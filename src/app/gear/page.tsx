@@ -23,7 +23,7 @@ const dummyGear = [
   {
     name: "DJi Osmo Chin Mount",
     image: "/osmoHelmetMount.jpg",
-    link: "#",
+    link: "https://store.dji.com/product/osmo-helmet-chin-mount-clip?vid=170421",
     description:
       "The standard for action cam footage. Sharp, stable, and waterproof.",
   },
